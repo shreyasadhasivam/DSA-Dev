@@ -11,3 +11,7 @@ Notes: How do time scales with respect to some variables?
 </p>
 <h4>DAY 2: Continuation of Space & time complexity</h4>
 <li><a href='https://www.notion.so/Space-and-Time-Complexity-6d93dbd8332643708e969d55a518ffe2?pvs=4'>Notes</a></li>
+<h4>DAY 3: Recursion</h4>
+<li><a href='https://www.youtube.com/watch?v=Mv9NEXX1VHc'>What on Earth is recursion?</a></li>
+<ol>Problems solved:<li><a href='https://leetcode.com/problems/reverse-string/description/'>Problem 344</a></li>
+<li><a href='https://leetcode.com/problems/swap-nodes-in-pairs/'>Problem 24</a></li></ol>
