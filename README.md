@@ -15,3 +15,9 @@ Notes: How do time scales with respect to some variables?
 <li><a href='https://www.youtube.com/watch?v=Mv9NEXX1VHc'>What on Earth is recursion?</a></li>
 <ol>Problems solved:<li><a href='https://leetcode.com/problems/reverse-string/description/'>Problem 344</a></li>
 <li><a href='https://leetcode.com/problems/swap-nodes-in-pairs/'>Problem 24</a></li></ol>
+<h4>DAY 4: Recursion continued</h4>
+<ol>Problems Solved:<li><a href='https://leetcode.com/problems/reverse-linked-list/description/'>Problem 206</a>(Only iterative method)</li>
+<li><a href='https://leetcode.com/problems/search-in-a-binary-search-tree/description/'>Problem 700</a></li></ol>
+<li><a href='https://www.geeksforgeeks.org/introduction-to-recursion-data-structure-and-algorithm-tutorials/'>Introduction to Recursion</a><br><p>
+Topics Covered:<li>Base condition in recursion</li><li>Memory in recursion</li><li>Why Stack Overflow occurs?</li><li>Difference between direct and indirect recursion</li><li>Tail Recursion and Non tail recursion</li></li></p>
+<li><a href='https://www.geeksforgeeks.org/recursive-functions/'>Recursive Functions</a></li>
