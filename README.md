@@ -21,3 +21,6 @@ Notes: How do time scales with respect to some variables?
 <li><a href='https://www.geeksforgeeks.org/introduction-to-recursion-data-structure-and-algorithm-tutorials/'>Introduction to Recursion</a><br><p>
 Topics Covered:<li>Base condition in recursion</li><li>Memory in recursion</li><li>Why Stack Overflow occurs?</li><li>Difference between direct and indirect recursion</li><li>Tail Recursion and Non tail recursion</li></li></p>
 <li><a href='https://www.geeksforgeeks.org/recursive-functions/'>Recursive Functions</a></li>
+<b>15/07/2023</b><br>
+Practising questions from Arsh Goyal's DSA sheet: <a href='https://docs.google.com/spreadsheets/d/1wtyJiOSgfAs-PpPmnUifIdubDQmHwM2GyNSuNq6wya0/edit?pli=1#gid=0'>DSA sheet</a>
+<br>Uploaded Chocolate distribution problem<br>
