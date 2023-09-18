@@ -39,3 +39,17 @@ arr.reverse()
 print("The array after reversing is: ",end=" ")
 for i in range(len(arr)):   
     print(arr[i], end= " ")
+
+#count function
+count = arr.count(1)
+print("\nThe count of 1 is: ",count)
+
+print("The buffer information of array is: ")
+print(arr.buffer_info())
+
+#to list
+#to convert array into list
+list = arr.tolist()
+print("The list created is: ",end=" ")
+for i in range(len(list)):
+    print(list[i], end= " ")
