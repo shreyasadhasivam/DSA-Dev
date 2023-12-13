@@ -68,3 +68,51 @@ class Stack:
     def __init__(self):
         self.stack = Deque()
         
+    def push(self,element):
+        self.stack.insert_First(element)
+    
+    def pop(self):
+        self.stack.remove_first()
+
+    def size(self):
+        return self.stack.size()
+    
+    def display(self):
+        self.stack.display()
+
+
+class Queue:
+    def __init__(self):
+        self.queue = Deque()
+
+    def push(self,element):
+        self.queue.insert_First(element)
+    
+    def pop(self):
+        self.queue.remove_last()
+
+    def size(self):
+        return self.queue.size()
+    
+    def display(self):
+        self.queue.display()
+
+stk = Stack()
+
+stk.push(7)
+stk.push(8)
+stk.push(9)
+stk.display()
+stk.pop()
+stk.pop()
+stk.display()
+
+queue = Queue()
+
+queue.push(10)
+queue.push(11)
+queue.push(12)
+queue.display()
+queue.pop()
+queue.pop()
+queue.display()
