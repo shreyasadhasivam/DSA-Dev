@@ -5,12 +5,10 @@ def removeDuplicates(nums):
         :rtype: int
         """
         x = OrderedSet()
-        numdict = dict(nums)
-        print(numdict.keys())
+        
         for i in range(len(nums)):
-            print(nums[i])
             x.append(nums[i])
-        print(x)
+        
         k = len(x)
         j = 0
         for l in x:
