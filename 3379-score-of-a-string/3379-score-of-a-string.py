@@ -5,12 +5,8 @@ class Solution(object):
         :rtype: int
         """
         score = 0
-        j=1
-        while j<len(s):
-            for i in range(len(s)-1):
-                score += abs(ord(s[i])-ord(s[j]))
-                print(s[i],s[j])
-                j+=1
+        for i in range(1,len(s)):
+            score += abs(ord(s[i])- ord(s[i-1]))
 
 
 
