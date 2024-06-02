@@ -34,10 +34,12 @@ Following Striver's takeUForward sheet.
 # Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0344-reverse-string) |
 # String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0344-reverse-string) |
 # Math
 |  |
