@@ -39,3 +39,7 @@ Following Striver's takeUForward sheet.
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0344-reverse-string) |
+# Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0007-reverse-integer) |
