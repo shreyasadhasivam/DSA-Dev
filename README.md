@@ -43,6 +43,7 @@ Following Striver's takeUForward sheet.
 | [0125-valid-palindrome](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0409-longest-palindrome) |
+| [1044-find-common-characters](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/1044-find-common-characters) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Math
 |  |
@@ -70,3 +71,8 @@ Following Striver's takeUForward sheet.
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0409-longest-palindrome) |
+| [1044-find-common-characters](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/1044-find-common-characters) |
+# Array
+|  |
+| ------- |
+| [1044-find-common-characters](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/1044-find-common-characters) |
