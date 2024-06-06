@@ -44,6 +44,7 @@ Following Striver's takeUForward sheet.
 | [0344-reverse-string](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0409-longest-palindrome) |
 | [1044-find-common-characters](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/1044-find-common-characters) |
+| [1078-remove-outermost-parentheses](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/1078-remove-outermost-parentheses) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Math
 |  |
@@ -83,3 +84,7 @@ Following Striver's takeUForward sheet.
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0876-hand-of-straights) |
+# Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/1078-remove-outermost-parentheses) |
