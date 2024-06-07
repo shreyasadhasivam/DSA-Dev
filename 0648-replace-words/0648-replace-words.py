@@ -5,16 +5,11 @@ class Solution(object):
         :type sentence: str
         :rtype: str
         """
-        rootSet = set(dictionary)
-
-        def findRoot(word):
-            for i in range(1, len(word) + 1):
-                prefix = word[:i]
-                if prefix in rootSet:
-                    return prefix
-            return word
-        
-        words = sentence.split()
-        replacedWords = [findRoot(word) for word in words]
-
-        return ' '.join(replacedWords)
+        wordlst = sentence.split(" ")
+        dictionary = sorted(dictionary, key=len)
+        for i in range(len(wordlst)):
+            for r in dictionary:
+                if wordlst[i][0:len(r)] == r:
+                    wordlst[i] = r
+                    break
+        return " ".join(wordlst)
