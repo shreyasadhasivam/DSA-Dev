@@ -95,3 +95,7 @@ Following Striver's takeUForward sheet.
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0648-replace-words) |
+# Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0237-delete-node-in-a-linked-list) |
