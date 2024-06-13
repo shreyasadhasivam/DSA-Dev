@@ -117,3 +117,7 @@ Following Striver's takeUForward sheet.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0035-search-insert-position) |
+# Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/1908-recyclable-and-low-fat-products) |
