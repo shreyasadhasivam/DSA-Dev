@@ -120,4 +120,5 @@ Following Striver's takeUForward sheet.
 # Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/1908-recyclable-and-low-fat-products) |
