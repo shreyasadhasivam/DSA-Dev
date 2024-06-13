@@ -45,6 +45,7 @@ Following Striver's takeUForward sheet.
 | [0344-reverse-string](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0648-replace-words) |
+| [0812-rotate-string](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0812-rotate-string) |
 | [1044-find-common-characters](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/1078-remove-outermost-parentheses) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -104,3 +105,7 @@ Following Striver's takeUForward sheet.
 | [0021-merge-two-sorted-lists](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0237-delete-node-in-a-linked-list) |
+# String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0812-rotate-string) |
