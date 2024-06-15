@@ -5,15 +5,15 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        left = 0
-        right = len(numbers) - 1
-        n = len(numbers)
-        while left<n and right>0:
-            print(left,right)
-            if numbers[left] + numbers[right] == target:
+        left, right = 0,len(numbers)-1
+        
+        while left<=right:
+            curr_sum = numbers[left]+numbers[right]
+            if curr_sum ==target:
                 return [left+1,right+1]
-            if numbers[left]+numbers[right]>target:
-                right -=1
-            if numbers[left]+numbers[right]<target:
+            elif curr_sum<target:
                 left+=1
+            elif curr_sum>target:
+                right-=1
+            
         return []
