@@ -35,6 +35,7 @@ Following Striver's takeUForward sheet.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0344-reverse-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
@@ -89,6 +90,7 @@ Following Striver's takeUForward sheet.
 | ------- |
 | [0001-two-sum](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0648-replace-words](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -122,6 +124,7 @@ Following Striver's takeUForward sheet.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 # Database
 |  |
 | ------- |
