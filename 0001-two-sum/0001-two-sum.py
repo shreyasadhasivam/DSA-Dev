@@ -5,10 +5,11 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        n = len(nums)
-        for i in range(n):
-            for j in range(i+1,n):
-                if nums[i] + nums[j] == target:
-                    return [i,j]
-        return []
-           
+        prevMap = {}
+        for i, n in enumerate(nums):
+            print(i,n)
+            diff = target-n
+            if diff in prevMap:
+                return [prevMap[diff],i]
+            prevMap[n] = i
+        return
