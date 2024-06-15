@@ -77,6 +77,7 @@ Following Striver's takeUForward sheet.
 # Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0409-longest-palindrome) |
@@ -86,6 +87,7 @@ Following Striver's takeUForward sheet.
 # Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0035-search-insert-position) |
 | [0648-replace-words](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0876-hand-of-straights) |
