@@ -35,6 +35,7 @@ Following Striver's takeUForward sheet.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0344-reverse-string) |
@@ -91,6 +92,7 @@ Following Striver's takeUForward sheet.
 | ------- |
 | [0001-two-sum](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0648-replace-words](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0648-replace-words) |
@@ -101,6 +103,7 @@ Following Striver's takeUForward sheet.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0016-3sum-closest) |
 | [0242-valid-anagram](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0242-valid-anagram) |
 | [0876-hand-of-straights](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0982-minimum-increment-to-make-array-unique) |
