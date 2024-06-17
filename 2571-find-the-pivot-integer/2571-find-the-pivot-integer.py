@@ -9,12 +9,11 @@ class Solution(object):
             sum+= i
         left,right = 0,sum
         for i in range(n+1):
-            left += i
-            print("left",left)
+            right -= i
             if right==left:
                 return i
             right -= i
-            print("right:",right,"/")
+    
             
             
         return -1
