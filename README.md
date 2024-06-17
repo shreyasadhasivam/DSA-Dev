@@ -57,6 +57,7 @@ Following Striver's takeUForward sheet.
 | ------- |
 | [0002-add-two-numbers](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0069-sqrtx) |
 | [1013-fibonacci-number](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/1013-fibonacci-number) |
 | [2571-find-the-pivot-integer](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/2571-find-the-pivot-integer) |
 # Dynamic Programming
@@ -139,6 +140,7 @@ Following Striver's takeUForward sheet.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 # Database
 |  |
