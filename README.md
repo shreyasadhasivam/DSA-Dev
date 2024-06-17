@@ -104,6 +104,7 @@ Following Striver's takeUForward sheet.
 | [1044-find-common-characters](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/1044-find-common-characters) |
 | [1603-running-sum-of-1d-array](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/1833-find-the-highest-altitude) |
+| [2102-find-the-middle-index-in-array](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/2102-find-the-middle-index-in-array) |
 # Sorting
 |  |
 | ------- |
@@ -157,3 +158,4 @@ Following Striver's takeUForward sheet.
 | [0724-find-pivot-index](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/1833-find-the-highest-altitude) |
+| [2102-find-the-middle-index-in-array](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/2102-find-the-middle-index-in-array) |
