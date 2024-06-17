@@ -98,6 +98,7 @@ Following Striver's takeUForward sheet.
 | [0035-search-insert-position](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0648-replace-words](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0648-replace-words) |
+| [0724-find-pivot-index](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0724-find-pivot-index) |
 | [0876-hand-of-straights](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1044-find-common-characters](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/1044-find-common-characters) |
@@ -148,3 +149,7 @@ Following Striver's takeUForward sheet.
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0982-minimum-increment-to-make-array-unique) |
+# Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0724-find-pivot-index) |
