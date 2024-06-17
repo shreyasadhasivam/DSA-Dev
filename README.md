@@ -58,6 +58,7 @@ Following Striver's takeUForward sheet.
 | [0002-add-two-numbers](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0007-reverse-integer) |
 | [1013-fibonacci-number](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/1013-fibonacci-number) |
+| [2571-find-the-pivot-integer](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/2571-find-the-pivot-integer) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -159,3 +160,4 @@ Following Striver's takeUForward sheet.
 | [1603-running-sum-of-1d-array](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/2102-find-the-middle-index-in-array) |
+| [2571-find-the-pivot-integer](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/2571-find-the-pivot-integer) |
