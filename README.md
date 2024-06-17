@@ -98,6 +98,7 @@ Following Striver's takeUForward sheet.
 | [0016-3sum-closest](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0303-range-sum-query-immutable](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0303-range-sum-query-immutable) |
 | [0648-replace-words](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0648-replace-words) |
 | [0724-find-pivot-index](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0724-find-pivot-index) |
 | [0876-hand-of-straights](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0876-hand-of-straights) |
@@ -156,8 +157,13 @@ Following Striver's takeUForward sheet.
 # Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/2102-find-the-middle-index-in-array) |
 | [2571-find-the-pivot-integer](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/2571-find-the-pivot-integer) |
+# Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0303-range-sum-query-immutable) |
