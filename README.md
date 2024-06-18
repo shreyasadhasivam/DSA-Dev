@@ -88,6 +88,7 @@ Following Striver's takeUForward sheet.
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0648-replace-words) |
@@ -102,6 +103,7 @@ Following Striver's takeUForward sheet.
 | [0035-search-insert-position](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0303-range-sum-query-immutable) |
 | [0648-replace-words](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0648-replace-words) |
 | [0724-find-pivot-index](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0724-find-pivot-index) |
@@ -178,3 +180,4 @@ Following Striver's takeUForward sheet.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0219-contains-duplicate-ii) |
