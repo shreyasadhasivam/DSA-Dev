@@ -87,6 +87,7 @@ Following Striver's takeUForward sheet.
 | [0001-two-sum](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0648-replace-words) |
@@ -100,6 +101,7 @@ Following Striver's takeUForward sheet.
 | [0016-3sum-closest](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0303-range-sum-query-immutable) |
 | [0648-replace-words](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0648-replace-words) |
 | [0724-find-pivot-index](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0724-find-pivot-index) |
@@ -114,6 +116,7 @@ Following Striver's takeUForward sheet.
 | ------- |
 | [0015-3sum](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0016-3sum-closest) |
+| [0217-contains-duplicate](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0242-valid-anagram) |
 | [0876-hand-of-straights](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0982-minimum-increment-to-make-array-unique) |
