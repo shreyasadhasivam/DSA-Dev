@@ -85,6 +85,7 @@ Following Striver's takeUForward sheet.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0409-longest-palindrome) |
@@ -134,6 +135,7 @@ Following Striver's takeUForward sheet.
 # String Matching
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0812-rotate-string) |
 # Binary Search
@@ -169,3 +171,7 @@ Following Striver's takeUForward sheet.
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0303-range-sum-query-immutable) |
+# Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0003-longest-substring-without-repeating-characters) |
