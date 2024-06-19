@@ -37,6 +37,7 @@ Following Striver's takeUForward sheet.
 | [0015-3sum](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0344-reverse-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -86,6 +87,7 @@ Following Striver's takeUForward sheet.
 | ------- |
 | [0001-two-sum](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0141-linked-list-cycle](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0219-contains-duplicate-ii) |
@@ -137,6 +139,7 @@ Following Striver's takeUForward sheet.
 | [0002-add-two-numbers](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0237-delete-node-in-a-linked-list) |
 # String Matching
 |  |
