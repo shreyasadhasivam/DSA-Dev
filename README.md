@@ -100,6 +100,7 @@ Following Striver's takeUForward sheet.
 | [0001-two-sum](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0016-3sum-closest) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0217-contains-duplicate) |
@@ -146,6 +147,7 @@ Following Striver's takeUForward sheet.
 # Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
