@@ -131,6 +131,7 @@ Following Striver's takeUForward sheet.
 # Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/1078-remove-outermost-parentheses) |
 # Trie
 |  |
@@ -191,3 +192,15 @@ Following Striver's takeUForward sheet.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0219-contains-duplicate-ii) |
+# Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0094-binary-tree-inorder-traversal) |
+# Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0094-binary-tree-inorder-traversal) |
+# Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0094-binary-tree-inorder-traversal) |
