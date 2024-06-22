@@ -117,6 +117,7 @@ Following Striver's takeUForward sheet.
 | [0876-hand-of-straights](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1044-find-common-characters](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/1044-find-common-characters) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/2102-find-the-middle-index-in-array) |
@@ -162,6 +163,7 @@ Following Striver's takeUForward sheet.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0792-binary-search) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 # Database
 |  |
 | ------- |
@@ -213,3 +215,7 @@ Following Striver's takeUForward sheet.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0100-same-tree) |
+# Matrix
+|  |
+| ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
