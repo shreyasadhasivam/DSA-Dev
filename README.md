@@ -71,6 +71,7 @@ Following Striver's takeUForward sheet.
 | ------- |
 | [0002-add-two-numbers](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0203-remove-linked-list-elements) |
 | [1013-fibonacci-number](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/1013-fibonacci-number) |
 # Memoization
 |  |
@@ -147,6 +148,7 @@ Following Striver's takeUForward sheet.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0142-linked-list-cycle-ii) |
+| [0203-remove-linked-list-elements](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0237-delete-node-in-a-linked-list) |
 # String Matching
 |  |
