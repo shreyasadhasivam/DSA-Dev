@@ -221,3 +221,18 @@ Following Striver's takeUForward sheet.
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0225-implement-stack-using-queues) |
+<!---LeetCode Topics End-->
