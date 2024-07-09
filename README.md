@@ -243,4 +243,12 @@ Following Striver's takeUForward sheet.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0792-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
