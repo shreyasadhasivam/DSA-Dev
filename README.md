@@ -250,6 +250,7 @@ Following Striver's takeUForward sheet.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0792-binary-search](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0792-binary-search) |
 ## Binary Search
@@ -275,4 +276,8 @@ Following Striver's takeUForward sheet.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
