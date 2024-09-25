@@ -4,16 +4,11 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        maxSum = float('-inf')
-        currentSum = 0
-        
-        for num in nums:
-            currentSum += num
-            
-            if currentSum > maxSum:
-                maxSum = currentSum
-            
-            if currentSum < 0:
-                currentSum = 0
-        
-        return maxSum
+        maxSub = nums[0]
+        currSum = 0
+        for n in nums:
+            if currSum<0:
+                currSum = 0
+            currSum += n
+            maxSub = max(maxSub, currSum)
+        return maxSub
