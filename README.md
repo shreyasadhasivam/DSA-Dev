@@ -254,6 +254,7 @@ Following Striver's takeUForward sheet.
 | [0053-maximum-subarray](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0238-product-of-array-except-self) |
 | [0792-binary-search](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
@@ -292,4 +293,8 @@ Following Striver's takeUForward sheet.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
