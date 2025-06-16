@@ -251,6 +251,7 @@ Following Striver's takeUForward sheet.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -301,4 +302,8 @@ Following Striver's takeUForward sheet.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0238-product-of-array-except-self) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
