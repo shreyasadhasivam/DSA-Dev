@@ -5,13 +5,15 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
-        if len(s)!=len(t):
+        if len(s) != len(t):
             return False
-        mapS, mapT = {},{}
-        for c1,c2 in zip(s,t):
-            mapS[c1] = 1+mapS.get(c1,0)
-            mapT[c2] = 1+mapT.get(c2,0)
-        for c in mapS:
-            if mapS[c] != mapT.get(c,0):
+        counter = {}
+        for char in s:
+            counter[char] = counter.get(char,0) + 1
+        for char in t:
+            if char not in counter or counter[char] == 0:
                 return False
+            counter[char] -= 1
+        
         return True
+        
