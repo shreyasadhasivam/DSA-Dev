@@ -247,6 +247,7 @@ Following Striver's takeUForward sheet.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0242-valid-anagram) |
 ## Array
 |  |
@@ -254,6 +255,7 @@ Following Striver's takeUForward sheet.
 | [0001-two-sum](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -290,11 +292,13 @@ Following Striver's takeUForward sheet.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
