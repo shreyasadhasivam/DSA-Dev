@@ -5,16 +5,14 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
-        if len(s) != len(t):
+        sarr, tarr = [],[]
+        if (len(s)!=len(t)):
             return False
-        
-        mapS,mapT = {},{}
-
-        for c1,c2 in zip(s,t):
-            mapS[c1] = 1+mapS.get(c1,0)
-            mapT[c2] = 1+mapT.get(c2,0)
-        
-        for c in mapS:
-            if mapS[c] != mapT.get(c,0):
+        sarr = list(s)
+        tarr = list(t)
+        sarr.sort()
+        tarr.sort()
+        for i in range(len(sarr)):
+            if(sarr[i]!=tarr[i]):
                 return False
         return True
