@@ -253,6 +253,7 @@ Following Striver's takeUForward sheet.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0033-search-in-rotated-sorted-array) |
@@ -318,6 +319,7 @@ Following Striver's takeUForward sheet.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Database
@@ -340,4 +342,8 @@ Following Striver's takeUForward sheet.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0347-top-k-frequent-elements) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
