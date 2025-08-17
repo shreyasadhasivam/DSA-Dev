@@ -249,6 +249,7 @@ Following Striver's takeUForward sheet.
 | [0020-valid-parentheses](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Array
 |  |
 | ------- |
@@ -299,6 +300,7 @@ Following Striver's takeUForward sheet.
 | [0217-contains-duplicate](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -346,4 +348,8 @@ Following Striver's takeUForward sheet.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
