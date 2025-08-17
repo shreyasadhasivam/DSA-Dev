@@ -253,6 +253,7 @@ Following Striver's takeUForward sheet.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0049-group-anagrams) |
@@ -300,6 +301,7 @@ Following Striver's takeUForward sheet.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0242-valid-anagram) |
@@ -316,6 +318,7 @@ Following Striver's takeUForward sheet.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyasadhasivam/90DaysofDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Database
 |  |
